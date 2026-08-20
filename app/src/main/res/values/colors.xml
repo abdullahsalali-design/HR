@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="launcher_bg">#101114</color>
+    <color name="launcher_surface">#1B1D22</color>
+    <color name="launcher_text">#FFFFFF</color>
+    <color name="launcher_subtext">#B8BBC3</color>
+    <color name="launcher_accent">#8CC63F</color>
+    <color name="ic_launcher_background">#101114</color>
+</resources>
