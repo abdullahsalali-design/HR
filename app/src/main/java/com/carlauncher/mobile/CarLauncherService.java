@@ -2,8 +2,8 @@ package com.carlauncher.mobile;
 
 import androidx.annotation.NonNull;
 import androidx.car.app.CarAppService;
-import androidx.car.app.HostValidator;
 import androidx.car.app.Session;
+import androidx.car.app.validation.HostValidator;
 
 public class CarLauncherService extends CarAppService {
     @NonNull
